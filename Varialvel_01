@@ -1,0 +1,16 @@
+string endereço;            // Texto
+string telefone;            // Texto
+int salario;                // Número real
+string cpf;                 // Texto
+int preco;                  // Número real
+string temperatura;         // Número real
+string casado;              //Booleano
+int data-de-nasc;           // Número real
+string vacinado;            // Número real
+int preco_gasolina;         // Número real
+int litros_gasolina;        // Número real
+int preco_pao;              // Número real
+string total_compras;       // Número real
+string idade;               // Número inteiro
+string data_contrato;       // Data
+string nivel_escolaridade;  // Texto
